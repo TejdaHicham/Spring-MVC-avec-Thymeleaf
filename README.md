@@ -19,5 +19,5 @@
 <h4>Rechercher Patient</h4>
 <img src="Screenshots/Patient_Keyword.png">
 
-<h4>Rechercher Patient</h4>
+<h4>Modifier Patient</h4>
 <img src="Screenshots/Patient_Edit.png">
